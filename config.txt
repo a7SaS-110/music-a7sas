@@ -1,6 +1,6 @@
 owner=236226847824805888
 prefix=~
-game=a7sas-110
+game= lil xan 
 stayinchannel=true
 songinstatus=false
 token=NTU2NzgzMjQ4MDM4OTUyOTcx.D2-waA.6CF6wJQyFvdJA0PsnzILJ07y1uY
